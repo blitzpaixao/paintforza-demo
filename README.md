@@ -3,7 +3,16 @@
 Protótipo funcional para apresentar à Paint Forza (funilaria, pintura e estética automotiva, Belém – PA).
 Não precisa de instalação: é HTML, CSS e JavaScript puro, e os dados de exemplo ficam salvos no navegador.
 
-## Como abrir
+## Online
+
+- Site: https://blitzpaixao.github.io/paintforza-demo/
+- Sistema da oficina: https://blitzpaixao.github.io/paintforza-demo/sistema.html
+- Portal do cliente: https://blitzpaixao.github.io/paintforza-demo/acompanhar.html?os=1042&c=FZ7K
+
+O site está marcado para não aparecer no Google (noindex) enquanto não for aprovado.
+Para atualizar a versão online, faça commit e `git push`: o GitHub Pages publica sozinho em cerca de 1 minuto.
+
+## Como abrir no computador
 
 ```bash
 python servidor.py
