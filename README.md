@@ -5,12 +5,12 @@ Não precisa de instalação: é HTML, CSS e JavaScript puro, e os dados de exem
 
 ## Online
 
-- Site: https://blitzpaixao.github.io/paintforza-demo/
-- Sistema da oficina: https://blitzpaixao.github.io/paintforza-demo/sistema.html
-- Portal do cliente: https://blitzpaixao.github.io/paintforza-demo/acompanhar.html?os=1042&c=FZ7K
+- Site: https://paintforza-demo.vercel.app/
+- Sistema da oficina: https://paintforza-demo.vercel.app/sistema.html
+- Portal do cliente: https://paintforza-demo.vercel.app/acompanhar.html?os=1042&c=FZ7K
 
 O site está marcado para não aparecer no Google (noindex) enquanto não for aprovado.
-Para atualizar a versão online, faça commit e `git push`: o GitHub Pages publica sozinho em cerca de 1 minuto.
+Para atualizar a versão online, faça commit e `git push`: a Vercel publica sozinha em poucos segundos.
 
 ## Como abrir no computador
 
